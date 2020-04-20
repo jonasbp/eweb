@@ -1,0 +1,20 @@
+body{
+  background-color: salmon;
+}
+
+.upper{
+  font-size: 40px;
+  color: salmon;
+  text-transform: uppercase;
+}
+.big{
+  font-size: 60px;
+  color: blue;
+}
+
+.big.uppercase{
+  color: navy;
+}
+h1 span{
+  color: violet;
+}
